@@ -216,62 +216,62 @@ Channel Islands,United Kingdom,6,0,0,49.3723,-2.3644,Europe
 Gibraltar,United Kingdom,3,0,1,36.1408,-5.3536,Europe
 Cayman Islands,United Kingdom,1,1,0,19.3133,-81.2546,Europe
 ,Uruguay,29,0,0,-32.5228,-55.7658,South America
-New York,US,1706,13,0,42.1657,-74.9481,North America
-Washington,US,1076,55,1,47.4009,-121.4905,North America
-California,US,698,12,6,36.1162,-119.6816,North America
-New Jersey,US,267,3,1,40.2989,-74.521,North America
-Massachusetts,US,218,0,1,42.2302,-71.5301,North America
-Florida,US,216,6,0,27.7663,-81.6868,North America
-Louisiana,US,196,4,0,31.1695,-91.8678,North America
-Illinois,US,161,1,2,40.3495,-88.9861,North America
-Colorado,US,160,2,0,39.0598,-105.3111,North America
-Georgia,US,146,1,0,33.0406,-83.6431,North America
-Pennsylvania,US,112,0,0,40.5908,-77.2098,North America
-Texas,US,110,1,0,31.0545,-97.5635,North America
-Tennessee,US,74,0,0,35.7478,-86.6923,North America
-Wisconsin,US,72,0,1,44.2685,-89.6165,North America
-Connecticut,US,68,0,0,41.5978,-72.7554,North America
-Ohio,US,67,0,0,40.3888,-82.7649,North America
-Virginia,US,67,2,0,37.7693,-78.17,North America
-Oregon,US,66,1,0,44.572,-122.0709,North America
-Michigan,US,65,0,0,43.3266,-84.5361,North America
-North Carolina,US,64,0,0,35.6301,-79.8064,North America
-Maryland,US,60,0,3,39.0639,-76.8021,North America
-Minnesota,US,60,0,0,45.6945,-93.9002,North America
-Nevada,US,56,1,0,38.3135,-117.0554,North America
-Utah,US,51,0,0,40.15,-111.8624,North America
-Diamond Princess,US,47,0,0,35.4437,139.638,North America
-South Carolina,US,47,1,0,33.8569,-80.945,North America
-Alabama,US,39,0,0,32.3182,-86.9023,North America
-Maine,US,32,0,0,44.6939,-69.3819,North America
-Indiana,US,30,2,0,39.8494,-86.2583,North America
-Kentucky,US,26,1,1,37.6681,-84.6701,North America
-New Hampshire,US,26,0,0,43.4525,-71.5639,North America
-Iowa,US,23,0,0,42.0115,-93.2105,North America
-New Mexico,US,23,0,0,34.8405,-106.2485,North America
-Rhode Island,US,23,0,0,41.6809,-71.5118,North America
-Arkansas,US,22,0,0,34.9697,-92.3731,North America
-District of Columbia,US,22,0,0,38.8974,-77.0268,North America
-Grand Princess,US,21,0,0,37.6489,-122.6655,North America
-Mississippi,US,21,0,0,32.7416,-89.6787,North America
-Nebraska,US,21,0,0,41.1254,-98.2681,North America
-Arizona,US,20,0,1,33.7298,-111.4312,North America
-Oklahoma,US,19,0,0,35.5653,-96.9289,North America
-Kansas,US,18,1,0,38.5266,-96.7265,North America
-Delaware,US,16,0,0,39.3185,-75.5071,North America
-Vermont,US,12,0,0,44.0459,-72.7107,North America
-Missouri,US,11,0,0,38.4561,-92.2884,North America
-South Dakota,US,11,1,0,44.2998,-99.4388,North America
-Wyoming,US,11,0,0,42.756,-107.3025,North America
-Hawaii,US,10,0,0,21.0943,-157.4983,North America
-Montana,US,9,0,0,46.9219,-110.4544,North America
-Idaho,US,8,0,0,44.2405,-114.4788,North America
-Puerto Rico,US,5,0,0,18.2208,-66.5901,North America
-Alaska,US,3,0,0,61.3707,-152.4044,North America
-Guam,US,3,0,0,13.4443,144.7937,North America
-North Dakota,US,3,0,0,47.5289,-99.784,North America
-Virgin Islands,US,2,0,0,18.3358,-64.8963,North America
-West Virginia,US,1,0,0,38.4912,-80.9545,North America
+NY,US,1706,13,0,42.1657,-74.9481,North America
+WA,US,1076,55,1,47.4009,-121.4905,North America
+CA,US,698,12,6,36.1162,-119.6816,North America
+NJ,US,267,3,1,40.2989,-74.521,North America
+MD,US,218,0,1,42.2302,-71.5301,North America
+FL,US,216,6,0,27.7663,-81.6868,North America
+LA,US,196,4,0,31.1695,-91.8678,North America
+IL,US,161,1,2,40.3495,-88.9861,North America
+CO,US,160,2,0,39.0598,-105.3111,North America
+GA,US,146,1,0,33.0406,-83.6431,North America
+OR,US,112,0,0,40.5908,-77.2098,North America
+TX,US,110,1,0,31.0545,-97.5635,North America
+TN,US,74,0,0,35.7478,-86.6923,North America
+WI,US,72,0,1,44.2685,-89.6165,North America
+CT,US,68,0,0,41.5978,-72.7554,North America
+OH,US,67,0,0,40.3888,-82.7649,North America
+VT,US,67,2,0,37.7693,-78.17,North America
+OR,US,66,1,0,44.572,-122.0709,North America
+MI,US,65,0,0,43.3266,-84.5361,North America
+NC,US,64,0,0,35.6301,-79.8064,North America
+MD,US,60,0,3,39.0639,-76.8021,North America
+MN,US,60,0,0,45.6945,-93.9002,North America
+NV,US,56,1,0,38.3135,-117.0554,North America
+UT,US,51,0,0,40.15,-111.8624,North America
+DE,US,47,0,0,35.4437,139.638,North America
+SC,US,47,1,0,33.8569,-80.945,North America
+AL,US,39,0,0,32.3182,-86.9023,North America
+ME,US,32,0,0,44.6939,-69.3819,North America
+IN,US,30,2,0,39.8494,-86.2583,North America
+KS,US,26,1,1,37.6681,-84.6701,North America
+NH,US,26,0,0,43.4525,-71.5639,North America
+IA,US,23,0,0,42.0115,-93.2105,North America
+NM,US,23,0,0,34.8405,-106.2485,North America
+PA,US,23,0,0,41.6809,-71.5118,North America
+AR,US,22,0,0,34.9697,-92.3731,North America
+DE,US,22,0,0,38.8974,-77.0268,North America
+GA,US,21,0,0,37.6489,-122.6655,North America
+MS,US,21,0,0,32.7416,-89.6787,North America
+NE,US,21,0,0,41.1254,-98.2681,North America
+AZ,US,20,0,1,33.7298,-111.4312,North America
+OK,US,19,0,0,35.5653,-96.9289,North America
+KS,US,18,1,0,38.5266,-96.7265,North America
+DE,US,16,0,0,39.3185,-75.5071,North America
+VT,US,12,0,0,44.0459,-72.7107,North America
+MO,US,11,0,0,38.4561,-92.2884,North America
+SD,US,11,1,0,44.2998,-99.4388,North America
+WY,US,11,0,0,42.756,-107.3025,North America
+HI,US,10,0,0,21.0943,-157.4983,North America
+MT,US,9,0,0,46.9219,-110.4544,North America
+ID,US,8,0,0,44.2405,-114.4788,North America
+PA,US,5,0,0,18.2208,-66.5901,North America
+AK,US,3,0,0,61.3707,-152.4044,North America
+GA,US,3,0,0,13.4443,144.7937,North America
+ND,US,3,0,0,47.5289,-99.784,North America
+VT,US,2,0,0,18.3358,-64.8963,North America
+WV,US,1,0,0,38.4912,-80.9545,North America
 ,Uzbekistan,10,0,0,41.3775,64.5853,Asia
 ,Venezuela,33,0,0,6.4238,-66.5897,South America
 ,Vietnam,66,0,16,14.0583,108.2772,Asia
