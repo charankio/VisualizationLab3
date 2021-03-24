@@ -14,7 +14,7 @@ Using different data sets as shown below (or a new CoronaVirus Dataset that you 
 
   #5 Draw a multi line chart to represent the actual max, min and mean temperature of each month in weather statistics. (use Weather2014-15.csv file) 
 
-  #6 Draw a bubble chart to represent the average min and max temperature of each month in weather statistics. (use Weather2014-15.csv file)
+  #6 Completed-- Hari Draw a bubble chart to represent the average min and max temperature of each month in weather statistics. (use Weather2014-15.csv file)
 
   #7 Draw a heatmap to represent the recorded max temperature on day of week and month of year. (use Weather2014-15.csv file)
 
