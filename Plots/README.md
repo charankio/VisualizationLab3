@@ -10,7 +10,7 @@ Using different data sets as shown below (or a new CoronaVirus Dataset that you 
 
   --#3--Completed--Alex Draw a stack bar chart to represent the Gold, Silver, Bronze medals of Olympic 2016 of 20 first top countries. (use Olympic2016Rio.csv file)
 
-  #4 Completed-- Hari Draw a line chart to represent the actual max temperature of each month in weather statistics. (use Weather2014-15.csv file)
+  --#4 Completed-- Hari Draw a line chart to represent the actual max temperature of each month in weather statistics. (use Weather2014-15.csv file)
 
   #5 Draw a multi line chart to represent the actual max, min and mean temperature of each month in weather statistics. (use Weather2014-15.csv file) 
 
