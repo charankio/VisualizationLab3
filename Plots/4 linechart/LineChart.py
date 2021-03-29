@@ -4,7 +4,7 @@ import plotly.graph_objs as go
 
 # Load CSV file from Datasets folder
 df = pd.read_csv('../Datasets/Weather2014-15.csv')
-df['Date'] = pd.to_datetime(df['date'])
+df['date'] = pd.to_datetime(df['date'])
 
 # Preparing data
 data = [go.Scatter(x=df['date'], y=df['actual_max_temp'], mode='lines', name='Max Temperature')]
